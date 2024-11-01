@@ -12,3 +12,4 @@ Each edition has its own branch, named `editions/[EDITION]`. The default branch 
 | iOS Apprentice   | [editions/8.3](https://github.com/raywenderlich/ia-materials/tree/editions/8.3) | 8.3     | 2020-05-19   |
 | UIKit Apprentice | [editions/9.0](https://github.com/raywenderlich/ia-materials/tree/editions/9.0) | 1.0     | 2020-10-01   |
 | UIKit Apprentice | [editions/10.0](https://github.com/raywenderlich/ia-materials/tree/editions/10.0) | 2.0     | 2021-09-22   |
+| UIKit Apprentice | [editions/11.0](https://github.com/raywenderlich/ia-materials/tree/editions/11.0) | 3.0     | YYYY-MM-DD   |
